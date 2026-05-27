@@ -38,6 +38,8 @@ TGFSR/
 
 ## Environment
 
+| Package | Version |
+|---------|---------|
 | Python | 3.10.19 |
 | PyTorch | 2.1.2+cu121 |
 | TorchVision | 0.16.2+cu121 |
