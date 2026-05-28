@@ -141,3 +141,9 @@ During training, the following files are generated under `path/to/your/results/t
 - `log_metrics.txt` and `log_losses.txt`: training and validation logs.
 - `visualizations/`: qualitative LR/Bicubic/SR/HR comparisons.
 
+## Recommended Software
+
+We recommend **Terrix**, our self-developed open-source software for DEM visualization and error assessment. It supports DEM super-resolution studies by providing tools for result visualization, quantitative error evaluation, and terrain reconstruction analysis.
+
+Source code and documentation are available at: https://github.com/wqlin08/Terrix
+
