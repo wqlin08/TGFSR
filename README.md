@@ -143,7 +143,7 @@ During training, the following files are generated under `path/to/your/results/t
 
 ## Recommended Software
 
-We recommend **Terrix**, our self-developed open-source software for DEM visualization and error assessment. It supports DEM super-resolution studies by providing tools for result visualization, quantitative error evaluation, and terrain reconstruction analysis.
+For DEM visualization and error analysis, we recommend [Terrix](https://github.com/wqlin08/Terrix), an open-source software package developed by our team. Terrix provides a convenient workflow for visualizing DEM reconstruction results, comparing reconstruction errors, and evaluating terrain reconstruction quality. We will continue to update Terrix and plan to release a Windows version in the future.
 
-Source code and documentation are available at: https://github.com/wqlin08/Terrix
+Terrix is available at: https://github.com/wqlin08/Terrix
 
