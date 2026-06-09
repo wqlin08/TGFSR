@@ -154,8 +154,7 @@ Wu, Q., Feng, M., & Xu, J. (2026). A terrain-guided and SAR fused network for mo
   journal={Computers & Geosciences},
   volume={215},
   pages={106205},
-  year={2026},
-  publisher={Elsevier}
+  year={2026}
 }
 
 ## Recommended Software
