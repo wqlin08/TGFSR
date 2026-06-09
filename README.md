@@ -141,6 +141,23 @@ During training, the following files are generated under `path/to/your/results/t
 - `log_metrics.txt` and `log_losses.txt`: training and validation logs.
 - `visualizations/`: qualitative LR/Bicubic/SR/HR comparisons.
 
+## Citation
+
+If you use this code, model, or related experimental results in your research, please cite our paper:
+
+Wu, Q., Feng, M., & Xu, J. (2026). A terrain-guided and SAR fused network for mountainous DEM super-resolution. *Computers & Geosciences*, 215, 106205.
+
+```bibtex
+@article{wu2026terrain,
+  title={A terrain-guided and SAR fused network for mountainous DEM super-resolution},
+  author={Wu, Qinglin and Feng, Min and Xu, Jinhao},
+  journal={Computers & Geosciences},
+  volume={215},
+  pages={106205},
+  year={2026},
+  publisher={Elsevier}
+}
+
 ## Recommended Software
 
 For DEM visualization and error analysis, we recommend [Terrix](https://github.com/wqlin08/Terrix), an open-source software package developed by our team. Terrix provides a convenient workflow for visualizing DEM reconstruction results, comparing reconstruction errors, and evaluating terrain reconstruction quality. We will continue to update Terrix and plan to release a Windows version in the future.
